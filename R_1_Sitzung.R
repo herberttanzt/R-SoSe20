@@ -2,3 +2,5 @@
 ## R
 
 sessionInfo()
+
+library(foreign)
