@@ -3,8 +3,6 @@
 
 sessionInfo()
 
-<<<<<<< HEAD
+
 library(foreign)
-=======
 # test Stefan
->>>>>>> master
